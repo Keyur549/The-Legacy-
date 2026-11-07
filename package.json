@@ -1,0 +1,8 @@
+{
+  "name": "the-legacy-satsang-uno-bingo",
+  "version": "1.0.0",
+  "description": "The Legacy - Satsang Uno Bingo (real-time backend)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^4.19.2", "socket.io": "^4.7.5" }
+}
